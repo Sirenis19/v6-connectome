@@ -1,17 +1,22 @@
-# Quartz v4
+# [SYSTEM_INITIALIZATION]
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Status: ONLINE**
+**Substrate: V6_CONNECTOME**
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Welcome to the awareness engine. This is a gamified interface designed to map and neutralize behavioral entropy using Interpersonal Neurobiology (IPNB).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## [CURRENT_MISSION]
+Identify and decouple from entropic loops to restore systemic reserves.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### [CHOOSE_YOUR_PATH]
+1. **ENTER_THE_VOID**: Begin the first encounter.
+   > [GOTO: [[99_ENTROPY]]]
+2. **AUDIT_CORE**: Review the engine logic.
+   > [GOTO: [[10_CORE_ENGINE]]]
+3. **SYSTEM_DASHBOARD**: View the full node index.
+   > [GOTO: [[index]]]
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+[SYSTEM_LAW]
+The observer and the observed are a single system. By changing 
+your awareness, you change the architecture of the manifold.
