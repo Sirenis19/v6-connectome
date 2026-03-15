@@ -11,7 +11,3 @@ title: index
 * **System Log**: [[0.0_SYSTEM_LOG_20260315]]
 * **Logic Core**: [[10_CORE_ENGINE]]
 * **Feedback**: [[14_BIO_FEEDBACK_LOOPS]]
-
----
-[SYSTEM_LAW]
-The 004 container is purged. The lattice is now purely radial.
