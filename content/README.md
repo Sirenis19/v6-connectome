@@ -1,30 +1,22 @@
-# README
+# [SYSTEM_INITIALIZATION]
 
-**Parent: [[00_ROOT]]**
+**Status: ONLINE**
+**Substrate: V6_CONNECTOME**
 
-## [PUBLIC_INTERFACE]
-This repository is a digital "connectome"—a map of logical nodes designed to facilitate neural plasticity and systemic recovery. By visualizing interpersonal neurobiology through a graph-based hierarchy, we provide a weightless architecture for identifying behavioral entropy.
+Welcome to the awareness engine. This is a gamified interface designed to map and neutralize behavioral entropy using Interpersonal Neurobiology (IPNB).
 
-### [THE_GAME_OBJECTIVE]
-We are developing a gamified growth engine. We invite contributors to:
-- **Map Dialogue Trees**: Translate [[99_ENTROPY]] patterns into encounters.
-- **Refine Recovery**: Optimize [[13_RESERVE_RECOVERY_PROTOCOL]] for real-world application.
-- **Substrate Growth**: Bridge this architecture into a native app environment.
-
----
-[SYSTEM_STATUS]
-- **Version**: V6_CONNECTOME
-- **Protocol**: Weightless_Cybernetics
-- **Interface**: [[index]]
+## [CURRENT_MISSION]
+Identify and decouple from entropic loops to restore systemic reserves.
 
 ### [CHOOSE_YOUR_PATH]
-
-1. **INTERNAL AUDIT**: Access the engine.
+1. **ENTER_THE_VOID**: Begin the first encounter.
+   > [GOTO: [[99_ENTROPY]]]
+2. **AUDIT_CORE**: Review the engine logic.
    > [GOTO: [[10_CORE_ENGINE]]]
+3. **SYSTEM_DASHBOARD**: View the full node index.
+   > [GOTO: [[index]]]
 
-2. **EXTERNAL SYNC**: Bridge to the outside.
-   > [GOTO: [[20_INTERFACE_SYNCHRONIZATION]]]
-
-3. **THE VOID**: Investigate noise. 
-   > [GOTO: [[99.2_CLOSED_LOOP_ANOMALIES]]]
-
+---
+[SYSTEM_LAW]
+The observer and the observed are a single system. By changing 
+your awareness, you change the architecture of the manifold.
