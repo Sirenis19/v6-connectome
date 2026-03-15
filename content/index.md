@@ -30,5 +30,5 @@ Current objective: Transitioning from a flat file substrate to a fully integrate
 - **Last_Sync**: 2026-03-15
 - **Substrate**: Carbon_Silicon_Hybrid
 
-[[0.0 SYSTEM LOG 20260315]]
-[[14 BIO FEEDBACK LOOPS]]
+[[0.0_SYSTEM_LOG_20260315]]
+[[14_BIO_FEEDBACK_LOOPS]]
