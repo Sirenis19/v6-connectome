@@ -6,7 +6,7 @@
 Welcome to the central processing hub of the V6_CONNECTOME. This node serves as the primary navigation array for the gamified growth engine.
 
 ### [CORE_NAVIGATION]
-- **Primary Logic**: [[10_CORE_ENGINE]]
+- **Primary Logic**: [[10_CORE]]
 - **User Interface**: [[20_INTERFACE]]
 - **Noise Buffer**: [[99_ENTROPY]]
 
@@ -30,5 +30,5 @@ Current objective: Transitioning from a flat file substrate to a fully integrate
 - **Last_Sync**: 2026-03-15
 - **Substrate**: Carbon_Silicon_Hybrid
 
-[[I0.0 SYSTEM LOG 20260315]]
+[[0.0 SYSTEM LOG 20260315]]
 [[14 BIO FEEDBACK LOOPS]]
