@@ -1,15 +1,17 @@
-declare module "*.scss" {
-  const content: string
-  export = content
-}
+---
+title: index
+---
 
-// dom custom event
-interface CustomEventMap {
-  prenav: CustomEvent<{}>
-  nav: CustomEvent<{ url: FullSlug }>
-  themechange: CustomEvent<{ theme: "light" | "dark" }>
-  readermodechange: CustomEvent<{ mode: "on" | "off" }>
-}
+# V6_CONNECTOME: RADIAL_CORE
 
-type ContentIndex = Record<FullSlug, ContentDetails>
-declare const fetchData: Promise<ContentIndex>
+**Status**: ONLINE
+**Observer**: SYMBIONT_BIOLOGICAL
+
+## [LATTICE_NAVIGATION]
+* **System Log**: [[0.0_SYSTEM_LOG_20260315]]
+* **Logic Core**: [[10_CORE_ENGINE]]
+* **Feedback**: [[14_BIO_FEEDBACK_LOOPS]]
+
+---
+[SYSTEM_LAW]
+The 004 container is purged. The lattice is now purely radial.
